@@ -1,5 +1,5 @@
 # Ex.05 Design a Website for Server Side Processing
-## Date:
+## Date:23-04-2024
 
 ## AIM:
 To design a website to find surface area of a Right Cylinder in server side.
@@ -129,10 +129,12 @@ urlpatterns = [
 ```
 ## SERVER SIDE PROCESSING:
 
-![image](https://github.com/rsubash17/MathServer/assets/147139828/7015228d-f89e-4600-9977-c610cc78d54b)
+![Screenshot (4)](https://github.com/rsubash17/MathServer/assets/147139828/00099f6d-276f-459f-9a91-8d41f43ae6ac)
+
 
 ## HOMEPAGE:
 
+![Screenshot 2024-04-23 105629](https://github.com/rsubash17/MathServer/assets/147139828/f62394c9-44ee-415d-a879-eee6dd196cef)
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
